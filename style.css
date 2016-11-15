@@ -1,0 +1,37 @@
+
+
+form {
+  display: inline-block;
+}
+
+#container {
+  width: 970px;
+  height: 1000px;
+}
+
+#description {
+  height: 100px;
+  width: 315px;
+  text-align: left;
+}
+
+
+#card-holder {
+  width: 50%;
+  height: 600px;
+  float: right;
+  vertical-align: top;
+}
+
+.contact-card {
+  height:200px;
+  width: 350px;
+  vertical-align: center;
+  float: right;
+  text-align: center;
+  border: 2px solid pink;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 10px;
+
+}
